@@ -34,7 +34,7 @@ function setText() {
     text[1] = "Hacking Google mainframe. Anonymous user connection activated.";
     text[2] = "Who have we contacted? Please tell us your name.";
     text[3] = firstName+", we need your help, but this connection is not secure.";
-    text[4] = "Copy and paste the following encrypted message into a text program.";
+    text[4] = "Copy and paste the following encrypted message into a plain text program.";
     text[5] = "Well done, "+firstName+". Thank you for accepting our call for help.";
     text[6] = "You have been assigned a contact at our agency. Use the secure email address below to inquire about your next step.";
     text[7] = "jduhm.lzqbtr@gmail.com";
